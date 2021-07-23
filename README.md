@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Turalinov/turalinov/blob/main/assets/banner.jpg)
 
 About me
 
