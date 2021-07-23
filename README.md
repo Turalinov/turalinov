@@ -4,8 +4,9 @@
 
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Кейс "Программирование сайта Monada на JavaScript/PHP"](https://www.youtube.com/watch?v=N6pfTmCRMHM)
 - [Кейс Разработка сайта под ключ для кадрового агентства “Проталанты”](https://www.youtube.com/watch?v=eIU6gk0loQI)
-- [Кейс "Имитация чата на JavaScript"](https://www.youtube.com/watch?v=Wv8tjX1hRCc)
+- [Кейс "Вёрстка и программирование сайта психолога"](https://www.youtube.com/watch?v=u-kgRRf18vg)
 - [Видеообзор функционала работы "конструктора шкафа", написанного на языке JavaScript](https://www.youtube.com/watch?v=-5rwKg34hOM)
 <!-- YOUTUBE:END -->
 
