@@ -1,4 +1,4 @@
-![Header](https://github.com/Turalinov/turalinov/blob/main/assets/banner.jpg)
+# Hello
 
 ## I'm beginner frontend developer
 
