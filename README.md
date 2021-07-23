@@ -1,4 +1,4 @@
-# Hello, my name is Ruslan.
+# Hello, my name is Ruslan
 
 ## I'm beginner frontend developer
 
