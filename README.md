@@ -1,6 +1,6 @@
 # Hello, my name is Ruslan
 
-## I'm beginner frontend developer
+## I'm frontend developer
 
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
