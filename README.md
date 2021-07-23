@@ -5,10 +5,8 @@
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Кейс Разработка сайта под ключ для кадрового агентства “Проталанты”](https://www.youtube.com/watch?v=eIU6gk0loQI)
-- [Кейс "Прокручиваемый календарь на JavaScript"](https://www.youtube.com/watch?v=KaorKExa5u8)
 - [Кейс "Имитация чата на JavaScript"](https://www.youtube.com/watch?v=Wv8tjX1hRCc)
-- [Автокалькулятор, нормализация базы данных sql, CRUD](https://www.youtube.com/watch?v=FKnCQsxFwmI)
-- [Вкладки на языке JavaScript](https://www.youtube.com/watch?v=Rdatvg6sM3s)
+- [Видеообзор функционала работы "конструктора шкафа", написанного на языке JavaScript](https://www.youtube.com/watch?v=-5rwKg34hOM)
 <!-- YOUTUBE:END -->
 
 ## Languages an Tools
