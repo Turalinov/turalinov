@@ -1,6 +1,6 @@
 ![Header](https://github.com/Turalinov/turalinov/blob/main/assets/banner.jpg)
 
-About me
+## I'm beginner frontend developer
 
 Latest Youtube Videos
 
