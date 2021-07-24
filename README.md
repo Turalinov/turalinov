@@ -6,7 +6,6 @@
 <!-- YOUTUBE:START -->
 - [Кейс "Программирование сайта Monada на JavaScript/PHP"](https://www.youtube.com/watch?v=N6pfTmCRMHM)
 - [Кейс Разработка сайта под ключ для кадрового агентства “Проталанты”](https://www.youtube.com/watch?v=eIU6gk0loQI)
-- [Кейс "Вёрстка и программирование сайта психолога"](https://www.youtube.com/watch?v=u-kgRRf18vg)
 <!-- YOUTUBE:END -->
 
 ## Languages an Tools
