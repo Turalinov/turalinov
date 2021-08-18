@@ -30,3 +30,6 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube-3f3c4f?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UC_4Yqi9MqlFej3332JnYNOw "Youtube")
 [![Vk](https://img.shields.io/badge/Vk-3f3c4f?style=for-the-badge&logo=Vk)](https://vk.com/turalinov "Vk")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turalinov&count_private=true&show_icons=true)
+
