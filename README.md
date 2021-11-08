@@ -4,9 +4,9 @@
 
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Кейс "Вёрстка и интеграция сайта для аудиторской компании "Аудит-доверие" на CMS Wordpress"](https://www.youtube.com/watch?v=W5rIbtiBzyU)
-- [Кейс " Разработка сайта-портфолио для веб-разработчика на JavaScript"](https://www.youtube.com/watch?v=DwKb_n8lp1Q)
-- [Кейс "Программирование сайта Monada на JavaScript/PHP"](https://www.youtube.com/watch?v=N6pfTmCRMHM)
+- [Кейс &quot;Вёрстка и интеграция сайта для аудиторской компании &quot;Аудит-доверие&quot; на CMS Wordpress&quot;](https://www.youtube.com/watch?v=W5rIbtiBzyU)
+- [Кейс &quot; Разработка сайта-портфолио для веб-разработчика на JavaScript&quot;](https://www.youtube.com/watch?v=DwKb_n8lp1Q)
+- [Кейс &quot;Программирование сайта Monada на JavaScript/PHP&quot;](https://www.youtube.com/watch?v=N6pfTmCRMHM)
 - [Кейс Разработка сайта под ключ для кадрового агентства “Проталанты”](https://www.youtube.com/watch?v=eIU6gk0loQI)
 <!-- YOUTUBE:END -->
 
