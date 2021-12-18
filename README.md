@@ -4,6 +4,7 @@
 
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Кейс &quot;Вёрстка и программирование сайта для крипто-консалтинговой платформы StellarityOil&quot;](https://www.youtube.com/watch?v=Tx1CXlH35-A)
 - [Кейс &quot;Вёрстка и интеграция сайта для аудиторской компании &quot;Аудит-доверие&quot; на CMS Wordpress&quot;](https://www.youtube.com/watch?v=W5rIbtiBzyU)
 - [Кейс &quot; Разработка сайта-портфолио для веб-разработчика на JavaScript&quot;](https://www.youtube.com/watch?v=DwKb_n8lp1Q)
 - [Кейс &quot;Программирование сайта Monada на JavaScript/PHP&quot;](https://www.youtube.com/watch?v=N6pfTmCRMHM)
