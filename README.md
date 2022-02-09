@@ -4,10 +4,11 @@
 
 #### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Кейс &quot;Вёрстка и интеграция сайта на CMS Wordpress для компании ВестКомТранс”](https://www.youtube.com/watch?v=l7m714Ff0NA)
 - [Кейс &quot;Вёрстка и программирование сайта для крипто-консалтинговой платформы StellarityOil&quot;](https://www.youtube.com/watch?v=Tx1CXlH35-A)
+- [Кейс &quot;Вёрстка и программирование клиентской части для французской компании Phare&quot;](https://www.youtube.com/watch?v=c3KTnZkUh5k)
 - [Кейс &quot;Вёрстка и интеграция сайта для аудиторской компании &quot;Аудит-доверие&quot; на CMS Wordpress&quot;](https://www.youtube.com/watch?v=W5rIbtiBzyU)
 - [Кейс &quot; Разработка сайта-портфолио для веб-разработчика на JavaScript&quot;](https://www.youtube.com/watch?v=DwKb_n8lp1Q)
-- [Кейс Разработка сайта под ключ для кадрового агентства “Проталанты”](https://www.youtube.com/watch?v=eIU6gk0loQI)
 <!-- YOUTUBE:END -->
 
 ## Languages an Tools
