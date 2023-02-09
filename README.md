@@ -2,15 +2,6 @@
 
 ## I'm frontend developer
 
-#### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Кейс &quot;вёрстка сайта для проекта neuf24, который предлагает возможность посетить новую недвижимость&quot;](https://www.youtube.com/watch?v=HrLgFIjRuYI)
-- [Кейс &quot;Вёрстка сайта для семейной стоматологии RioStom”](https://www.youtube.com/watch?v=BSp6-YRD3RA)
-- [Кейс &quot;Вёрстка и интеграция сайта на CMS Wordpress для компании ВестКомТранс”](https://www.youtube.com/watch?v=l7m714Ff0NA)
-- [Кейс &quot;Вёрстка и программирование сайта для крипто-консалтинговой платформы StellarityOil&quot;](https://www.youtube.com/watch?v=Tx1CXlH35-A)
-- [Кейс &quot;Вёрстка и программирование клиентской части для французской компании Phare&quot;](https://www.youtube.com/watch?v=c3KTnZkUh5k)
-<!-- YOUTUBE:END -->
-
 ## Languages an Tools
 ### Primary
 ![HTML](https://img.shields.io/badge/HTML5-3f3c4f?style=for-the-badge&logo=html5)
