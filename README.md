@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-3f3c4f?style=for-the-badge&logo=javascript)
 
 ### Secondary
+![React](https://img.shields.io/badge/Pug-3f3c4f?style=for-the-badge&logo=react)
 ![Pug](https://img.shields.io/badge/Pug-3f3c4f?style=for-the-badge&logo=pug)
 ![SASS](https://img.shields.io/badge/SCSS-3f3c4f?style=for-the-badge&logo=sass)
 ![GIT](https://img.shields.io/badge/GIT-3f3c4f?style=for-the-badge&logo=GIT)
