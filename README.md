@@ -9,11 +9,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-3f3c4f?style=for-the-badge&logo=javascript)
 
 ### Secondary
-![React](https://img.shields.io/badge/React-3f3c4f?style=for-the-badge&logo=react)
 ![Pug](https://img.shields.io/badge/Pug-3f3c4f?style=for-the-badge&logo=pug)
 ![SASS](https://img.shields.io/badge/SCSS-3f3c4f?style=for-the-badge&logo=sass)
-![GIT](https://img.shields.io/badge/GIT-3f3c4f?style=for-the-badge&logo=GIT)
+![React](https://img.shields.io/badge/React-3f3c4f?style=for-the-badge&logo=react)
 ![Gulp](https://img.shields.io/badge/Gulp-3f3c4f?style=for-the-badge&logo=Gulp)
+![Webpack](https://img.shields.io/badge/Webpack-3f3c4f?style=for-the-badge&logo=Webpack)
+![GIT](https://img.shields.io/badge/GIT-3f3c4f?style=for-the-badge&logo=GIT)
 
 
 ## Folow me:
